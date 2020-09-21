@@ -1,0 +1,2 @@
+# Theory-of-Automata
+Automata Theory is a branch of computer science that deals with designing abstract selfpropelled computing devices that follow a predetermined sequence of operations automatically. An automaton with a finite number of states is called a Finite Automaton. This is a brief and concise tutorial that introduces the fundamental concepts of Finite Automata, Regular Languages, and Pushdown Automata before moving onto Turing machines and Decidability.
